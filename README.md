@@ -67,7 +67,7 @@ It contains:
 ### Dashboard Preview
 
 <p align="center">
-  <img src="Images/Students Performance Dashboard.png" alt="Students Performance Dashboard" width="1000"/>
+  <img src="https://github.com/TusharBagle/Student-Performance-Practical-Ex.-/blob/main/Images/Students%20Performance%20Dashboard.png" alt="Students Performance Dashboard" width="1000"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ The dashboard analyzes behavioral observations such as:
 ### Dashboard Preview
 
 <p align="center">
-  <img src="Images/Student Attendance & Behavior Dashboard.png" alt="Student Attendance and Behavior Dashboard" width="1000"/>
+  <img src="https://github.com/TusharBagle/Student-Performance-Practical-Ex.-/blob/main/Images/Student%20Attendance%20%26%20Behavior%20Dashboard.png" alt="Student Attendance and Behavior Dashboard" width="1000"/>
 </p>
 
 ---
