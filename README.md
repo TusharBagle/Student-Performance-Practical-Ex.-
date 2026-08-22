@@ -1,19 +1,5 @@
 # Students Performance Overview
 
-# 🎓 Student Performance Analytics Dashboard
-
-<p align="center">
-
-  <img src="Images/Student Attendance & Behavior Dashboard.png" alt="Student Performance Analytics Dashboard" width="900"/>
-
-</p>
-
-<p align="center">
-
-  <b>Interactive Power BI Dashboard for Academic Performance, Attendance & Student Behavior Analysis</b>
-
-</p>
-
 ---
 
 ## 📌 Project Overview
